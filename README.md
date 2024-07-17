@@ -1,0 +1,1 @@
+just having fun with the vite. Exploring the software with no burden of using in future but just purely understanding.
